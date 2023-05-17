@@ -34,4 +34,4 @@ Use [build.gradle](server/build.gradle) (`node` section) config if you need to c
 for more details.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](./LICENSE)
